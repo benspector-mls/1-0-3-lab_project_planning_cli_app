@@ -180,7 +180,7 @@ Read the docs but don't go crazy, look for only what you need to get started. Fo
 Once you feel confident about your answer to the primary question, move on! You can learn more as you go later. *Always keep moving forward.*
 
 # Step 3: File setup
-How do we structure a JS File? Lots of ways of course, but for now let's keep it simple and use this setup:
+How do we structure a JS File? Lots of ways of course, but for now let's keep it simple and use a setup that looks like this:
 
 ```js
 // imports at the top
